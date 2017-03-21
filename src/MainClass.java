@@ -17,6 +17,7 @@ public class MainClass {
 		String input = in.nextLine();
 		out.println("Welcome.");
 		out.println("Hi "+input);
+		out.println("some changes");
 		in.close();
 
 	}
