@@ -15,7 +15,7 @@ public class MainClass {
 		out.println("Enter Name: ");
 		Scanner in = new Scanner(System.in);
 		String input = in.nextLine();
-		out.println("Welcome.");
+		out.println("Good morning");
 		out.println("Hi "+input);
 		out.println("some changes");
 		in.close();
